@@ -19,7 +19,14 @@ This project contains automated tests for the [Random Date Generator](https://co
 
 ## 📁 Project Structure
 
-random-date-generator/ ├── pom.xml └── src └── test └── java └── org └── example └── RandomDateTest.java
+random-date-generator
+   ├── pom.xml 
+   └── src 
+      └── test 
+         └── java 
+            └── org 
+               └── example 
+                  └── RandomDateTest.java
 
 ##  Setup and Run
 
