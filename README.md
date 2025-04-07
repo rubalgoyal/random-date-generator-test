@@ -27,3 +27,9 @@ random-date-generator/ ├── pom.xml └── src └── test └── 
    ```bash
    git clone https://github.com/your-username/random-date-generator.git
    cd random-date-generator
+   ```
+2. Run the tests using Maven:
+   ```bash
+     mvn test
+   ```
+   
